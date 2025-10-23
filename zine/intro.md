@@ -2,3 +2,4 @@
 Polished zine
 added a divider
 fixed spacing around the heading
+added nav footer
