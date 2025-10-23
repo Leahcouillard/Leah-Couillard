@@ -1,1 +1,1 @@
-Welcome to Leah's Time Portal Zine
+Welcome to Leah's Super Awesome Zine
